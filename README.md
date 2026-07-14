@@ -11,7 +11,7 @@ I specialize in transforming complex logics into beautiful, seamless, and user-c
 
 ## 🛠️ Technical Skill Set 
 
-### 📱 Mobile App UI/UX Design (تصميم تطبيقات الموبايل)
+### 📱 Mobile App UI/UX Design 
 * **Design Principles:** User-Centric Mobile Architecture, Wireframing, Prototyping, and Micro-interactions.
 * **Platform Optimization:** Designing adaptive layouts for iOS and Android environments, focusing on seamless touch interaction and modern components.
 
