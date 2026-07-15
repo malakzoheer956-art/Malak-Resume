@@ -39,7 +39,7 @@ My freelance and academic work focuses on delivering premium digital experiences
 
 ## 🔗 Live Production Environment
 Explore the deployed interactive system and review my professional credentials live here:  
-👉 **[Launch Live Portfolio Website](https://malakzoheer956-art.github.io/Malak-Resume/html%20pages/index.html)**
+👉[https://malakzoheer956-art.github.io/Malak-Resume/html%20pages/index.html](https://malakzoheer956-art.github.io/Malak-Resume/html%20pages/index.html)
 
 ---
 
